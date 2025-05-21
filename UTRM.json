@@ -1,0 +1,386 @@
+{
+  "University": {
+    "Name": "Universidad Tecnologica de la Riviera Maya",
+    "Address": {
+      "Street": "Av. Paseos el Mayab 4000",
+      "ZipCode": "77710",
+      "City": "Playa del Carmen",
+      "State": "Quintana Roo",
+      "Country": "Mexico"
+    },
+    "CareersLevel": {
+      "TSU": [
+        {
+          "careerName": "Desarrollo de Software Multiplataforma",
+          "acronymCareer": "DSM",
+          "Groups": [
+            {
+              "groupName": "TI21",
+              "subjects": [
+                "Ingles II",
+                "Habilidades Socioemocionales y manejo de conflictos",
+                "Calculo Diferencial",
+                "Conmutacion y Enrutamiento de Redes",
+                "Probabilidad y Estadistica",
+                "Programacion Estrucuturada",
+                "Sistemas Operativos"
+              ]
+            },
+            {
+              "groupName": "TI22",
+              "subjects": [
+                "Ingles II",
+                "Habilidades Socioemocionales y manejo de conflictos",
+                "Calculo Diferencial",
+                "Conmutacion y Enrutamiento de Redes",
+                "Probabilidad y Estadistica",
+                "Programacion Estrucuturada",
+                "Sistemas Operativos"
+              ]
+            },
+            {
+              "groupName": "TI24",
+              "subjects": [
+                "Ingles II",
+                "Habilidades Socioemocionales y manejo de conflictos",
+                "Calculo Diferencial",
+                "Conmutacion y Enrutamiento de Redes",
+                "Probabilidad y Estadistica",
+                "Programacion Estrucuturada",
+                "Sistemas Operativos"
+              ]
+            },
+            {
+              "groupName": "TI51",
+              "subjects": [
+                "Aplicaciones de IoT",
+                "Desarrollo Móvil Multiplataforma",
+                "Integradora II",
+                "Aplicaciones Web para I4.0",
+                "Base de datos para cómputo en la nube",
+                "Expresión Oral y Escrita II",
+                "Inglés V"
+              ]
+            },
+            {
+              "groupName": "TI52",
+              "subjects": [
+                "Ingles II",
+                "Habilidades Socioemocionales y manejo de conflictos",
+                "Calculo Diferencial",
+                "Conmutacion y Enrutamiento de Redes",
+                "Probabilidad y Estadistica",
+                "Programacion Estrucuturada",
+                "Sistemas Operativos"
+              ]
+            }
+          ]
+        },
+        {
+          "careerName": "Entornos Virtuales y Negocios Digitales",
+          "acronymCareer": "EVND",
+          "Groups": [
+            {
+              "groupName": "TI23",
+              "subjects": [
+                "Ingles II",
+                "Habilidades Socioemocionales y manejo de conflictos",
+                "Calculo Diferencial",
+                "Conmutacion y Enrutamiento de Redes",
+                "Probabilidad y Estadistica",
+                "Programacion Estrucuturada",
+                "Sistemas Operativos"
+              ]
+            },
+            {
+              "groupName": "TI53",
+              "subjects": [
+                "Liderazgo de equipos de alto desempeño",
+                "Ecuaciones diferenciales",
+                "Aplicaciones para realidad aumentada",
+                "Aplicaciones para realidad virtual",
+                "Frameworks para desarrollo web",
+                "Proyecto integrador II",
+                "Inglés V"
+              ]
+            }
+          ]
+        },
+        {
+          "careerName": "Mantenimiento Industrial",
+          "acronymCareer": "MI",
+          "Groups": [
+            {
+              "NameGroup": "MI21",
+              "Cuatrimestre": 2,
+              "Subjects": [
+                "Ingles II",
+                "Habilidades socioemocionales y manejo de conflictos",
+                "Cálculo diferencial",
+                "Física",
+                "Probabilidad y estadística",
+                "Gestión del mantenimiento",
+                "Termodinámica"
+              ]
+            },
+            {
+              "NameGroup": "MI22",
+              "Cuatrimestre": 2,
+              "Subjects": [
+                "Ingles II",
+                "Habilidades socioemocionales y manejo de conflictos",
+                "Cálculo diferencial",
+                "Física",
+                "Probabilidad y estadística",
+                "Gestión del mantenimiento",
+                "Termodinámica"
+              ]
+            },
+            {
+              "NameGroup": "MI51",
+              "Cuatrimestre": 5,
+              "Subjects": [
+                "Ingles V",
+                "Liderazgo de equipos de alto desempeño",
+                "Ecuaciones diferenciales",
+                "Automatización de infraestructura y telecomunicaciones",
+                "Mantenimiento a servicios industriales",
+                "Ciencia de los materiales",
+                "Proyecto integrador II"
+              ]
+            }
+          ]
+        },
+        {
+          "careerName": "TSU",
+          "acronymCareer": "TU",
+          "Groups": [
+            {
+              "NameGroup": "TU21",
+              "Subjects": [
+                "Ingles II",
+                "Habilidades socioemocionales y manejo de conflictos",
+                "Probabilidad y estadística ",
+                "Administración",
+                "Servicios de viaje y transportación",
+                "Sustentabilidad en el turismo",
+                "Servicios de alimentos y bebidas"
+              ]
+            },
+            {
+              "NameGroup": "TU22",
+              "Subjects": [
+                "Ingles II",
+                "Habilidades socioemocionales y manejo de conflictos",
+                "Cálculo diferencial",
+                "Física",
+                "Probabilidad y estadística",
+                "Conmutación y enrutamiento de redes",
+                "Sistemas operativos"
+              ]
+            },
+            {
+              "NameGroup": "TU51",
+              "Subjects": [
+                "Ingles V",
+                "Liderazgo de equipos de alto desempeño",
+                "Diseño de experiencias turísticas",
+                "Plan de negocios",
+                "Capacitación de capital humano ",
+                "Animación turística y sociocultural",
+                "Proyecto integrador II"
+              ]
+            },
+            {
+              "NameGroup": "TU52",
+              "Subjects": [
+                "Ingles V",
+                "Liderazgo de equipos de alto desempeño",
+                "Diseño de experiencias turísticas",
+                "Plan de negocios",
+                "Capacitación de capital humano ",
+                "Animación turística y sociocultural",
+                "Proyecto integrador II"
+              ]
+            }
+          ]
+        },
+        {
+          "careerName": "Contaduria",
+          "acronymCareer": "CT",
+          "Groups": [
+            {
+              "NameGroup": "CT31",
+              "Subjects": [
+                "Ingles III",
+                "Desarrollo del pensamiento y toma de decisiones",
+                "Matemáticas financieras ",
+                "Administración",
+                "Derecho fiscal",
+                "Contabilidad de sociedades",
+                "Contabilidad superior",
+                "Proyecto integrador I"
+              ]
+            },
+            {
+              "NameGroup": "CT32",
+              "Subjects": [
+                "Ingles III",
+                "Desarrollo del pensamiento y toma de decisiones",
+                "Matemáticas financieras ",
+                "Administración",
+                "Derecho fiscal",
+                "Contabilidad de sociedades",
+                "Contabilidad superior",
+                "Proyecto integrador I"
+              ]
+            },
+            {
+              "NameGroup": "CT33",
+              "Subjects": [
+                "Ingles III",
+                "Desarrollo del pensamiento y toma de decisiones",
+                "Matemáticas financieras ",
+                "Administración",
+                "Derecho fiscal",
+                "Contabilidad de sociedades",
+                "Contabilidad superior",
+                "Proyecto integrador I"
+              ]
+            },
+            {
+              "NameGroup": "CT61",
+              "Subjects": "Estadias"
+            },
+            {
+              "NameGroup": "CT62",
+              "Subjects": "Estadias"
+            }
+          ]
+        }
+      ],
+      "Ingenieria": [
+        {
+          "nameCareer": "Gestión y Desarrollo de Software",
+          "acronymCareer": "TI",
+          "Groups": [
+            {
+              "NameGroup": "TI81",
+              "Subjects": [
+                "Ingles VII",
+                "Internet de las cosas",
+                "Evaluación de proyectos de tecnología",
+                "Ciencia de datos",
+                "Tecnologías disruptivas",
+                "Optativa III",
+                "Proyecto integrador III"
+              ]
+            },
+            {
+              "NameGroup": "TI111",
+              "Subjects": "Estadias"
+            }
+          ]
+        },
+        {
+          "nameCareer": "Entornos Virtuales y Negocios Digitales",
+          "acronymCareer": "IT",
+          "Groups": [
+            {
+              "NameGroup": "TI82",
+              "Subjects": [
+                "Ingles VII",
+                "Internet de las cosas",
+                "Evaluación de proyectos de tecnología",
+                "Ciencia de datos",
+                "Tecnologías disruptivas",
+                "Optativa III",
+                "Proyecto integrador III"
+              ]
+            },
+            {
+              "NameGroup": "TI112",
+              "Subjects": "Estadias"
+            }
+          ]
+        },
+        {
+          "nameCareer": "Mantenimiento",
+          "acronymCareer": "IM",
+          "Groups": [
+            {
+              "NameGroup": "IM81",
+              "Subjects": [
+                "Ingles VII",
+                "Ingeniería Económica",
+                "Mantenimiento predictivo mecánico",
+                "Técnicas TPM y RCM",
+                "Ensayos destructivos",
+                "Sistemas automatizados y redes industriales",
+                "Protocolos de operación y mantenimiento"
+              ]
+            },
+            {
+              "NameGroup": "IM111",
+              "Subjects": "Estadias"
+            }
+          ]
+        }
+      ],
+      "Licenciatura": [
+        {
+          "nameCareer": "Contaduria",
+          "acronymCareer": "LT",
+          "Groups": [
+            {
+              "NameGroup": "LC91",
+              "Subjects": [
+                "Ingles VII",
+                "Auditoría gubernamental",
+                "Evaluación financiera",
+                "Auditoría fiscal",
+                "Seminario de defensa fiscal",
+                "Administración de costos e inventarios para la toma de decisiones",
+                "Proyecto integrador III"
+              ]
+            }
+          ]
+        },
+        {
+          "nameCareer": "Gestión y Desarrollo Turístico",
+          "acronymCareer": "LC",
+          "Groups": [
+            {
+              "NameGroup": "LT81",
+              "Subjects": [
+                "Ingles VI",
+                "Finanzas para el turismo",
+                "Calidad y responsabilidad social",
+                "Desarrollo de proyectos emprendedores para el turismo I",
+                "Mercadotecnia digital",
+                "Consultoría turística I",
+                "Tendencias del turismo"
+              ]
+            },
+            {
+              "NameGroup": "LT82",
+              "Subjects": [
+                "Ingles VI",
+                "Finanzas para el turismo",
+                "Calidad y responsabilidad social",
+                "Desarrollo de proyectos emprendedores para el turismo I",
+                "Mercadotecnia digital",
+                "Consultoría turística I",
+                "Tendencias del turismo"
+              ]
+            },
+            {
+              "NameGroup": "LT111",
+              "Subjects": "Estadias"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
